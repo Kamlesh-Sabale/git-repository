@@ -1,0 +1,2 @@
+welcome to devops
+we are doing practice on git & github
